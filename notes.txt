@@ -1,0 +1,5 @@
+1.  git remote set-url portfolio  https://github.com/vaibhav628/portfolio
+
+2. git add .
+git commit -m "force push"
+git push portfolio master --force
